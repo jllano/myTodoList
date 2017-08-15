@@ -1,4 +1,4 @@
 # myTodoList
 
 # Install
-$ go get github.com/tools/godep
+$ go get github.com/jllano/myTodoList
