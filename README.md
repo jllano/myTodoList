@@ -1,3 +1,5 @@
+Simple Todo list API in GoLang
+
 # myTodoList
 
 # Install
